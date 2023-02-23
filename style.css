@@ -1,0 +1,57 @@
+.navigationBar {
+    background-color: black;
+    max-width: 150px;
+    
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    
+}
+
+
+
+.white-link {
+    color: white;
+    
+}
+
+.black-link {
+    color: black;
+}
+
+.under-div {
+    padding-top: 10px;
+}
+
+.p5link {
+    text-align: center;
+}
+
+.searchbar {
+    text-align: center;
+}
+
+.topRow {
+    max-height: 50px;
+}
+
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
+
+.navy {
+    height: 200px;
+}
+
+.exampleImg {
+    width: 100%;
+    height: 100%;
+    
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.textNextTo {
+    max-width: 250px;
+}
